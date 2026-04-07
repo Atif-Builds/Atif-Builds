@@ -4,13 +4,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ATIF%20BUILDS&fontSize=90&animation=fadeIn" />
 </p>
 
+<p align="right">🌿╮(￣▽￣)╭🌿</p>
+
 ## 🏕️ The Journey Begins
 <p align="center">
   <img src="https://progress-bar.dev/1/?scale=100&title=Day%201&width=600&color=babaf2" alt="Progress Bar" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Atif-Builds/Atif-Builds/main/your-pixel-image.jpg" width="300" />
+  <img src="https://github.com/Atif-Builds/Atif-Builds/blob/main/your-pixel-image.jpg?raw=true" width="300" style="border-radius: 10px;" />
 </p>
 
 ### 👨‍💻 About Me
@@ -24,7 +26,7 @@ I am a developer in progress, currently sitting by the river at sunset, sharpeni
 
 ---
 
-### 🛠️ Languages & Tools I've Handled
+### 🛠️ Tools of the Trade
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />

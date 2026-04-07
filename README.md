@@ -6,9 +6,8 @@
 
 # 👋 Hi, I'm Atif
 
-<p align="center">
-  <img src="https://github.com/Atif-Builds.png" width="250" style="border-radius: 50%; border: 3px solid #babaf2;" />
-</p>
+#![Uploading Atif’s coding space at night.png…]()
+
 
 ### 👨‍💻 The Warrior's Path
 *“Sitting by the campfire at sunset, sharpening my logic before the next climb.”*

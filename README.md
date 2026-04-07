@@ -35,6 +35,10 @@ I am a developer in progress, currently sitting by the river at sunset, sharpeni
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
+#<img width="1024" height="1024" alt="Atif’s coding space at night" src="https://github.com/user-attachments/assets/2e6193b6-140c-4662-b751-1bd89367a918" />
+
+#![MY DEV PROFILE](https://github.com/user-attachments/assets/0582b594-602a-4cc2-b4f9-538888b393ed)
+
 
 ---
 

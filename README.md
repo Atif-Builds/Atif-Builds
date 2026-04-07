@@ -1,42 +1,47 @@
-![MY DEV PROFILE](https://github.com/user-attachments/assets/5d4ba441-ee09-464a-9036-c883beb712c3)
-# Hi, I'm Atif! 👋 
+# Hi, I'm Atif! 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Atif%20Builds&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ATIF%20BUILDS&fontSize=90&animation=fadeIn" />
+</p>
+
+## 🏕️ The Journey Begins
+<p align="center">
+  <img src="https://progress-bar.dev/1/?scale=100&title=Day%201&width=600&color=babaf2" alt="Progress Bar" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Atif-Builds/Atif-Builds/main/your-pixel-image.jpg" width="300" />
 </p>
 
 ### 👨‍💻 About Me
-- 🚀 **Status:** Developer in Progress | Day 1
-- 🎓 **Currently:** Mastering the fundamentals via **CS50**
-- 🐍 **Focus:** Python, AI Integration, and App Development
-- 💡 **Goal:** Turning complex problems into simple, beautiful code
+*“A warrior at the campfire, preparing for the great climb.”*
+
+I am a developer in progress, currently sitting by the river at sunset, sharpening my tools. My journey is about more than just code; it's about building a legacy, one pixel at a time.
+
+- 🏹 **Current Quest:** Mastering **CS50** & **Python**
+- 🏔️ **Environment:** Building near the mountains, rivers, and waterfalls.
+- 🦌 **Vibe:** Peace, focus, and growth.
 
 ---
 
-### 📚 Learning Journey
-| Course | Status | Language |
-| :--- | :--- | :--- |
-| **CS50x** | 🟡 In Progress | C, Python, SQL |
-| **Python Basics** | 🟢 Active | Python |
-| **AI Exploration** | ⚪ Planned | Neural Networks |
-
----
-
-### 🛠 Tech Stack
+### 🛠️ Languages & Tools I've Handled
 <p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
-
-### 📈 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atif-Builds&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Atif's Stats" />
-</p>
-
-#![MY DEV PROFILE](https://github.com/user-attachments/assets/7e508d25-167b-4d39-ac7d-5cbf9d83dc70)
 
 ---
-<p align="center">
-  <i>“The best way to predict the future is to create it.”</i>
-</p>
+
+### 🐍 Tech Stack
+```python
+class Atif:
+    def __init__(self):
+        self.language = "Python"
+        self.status = "Building the Future"
+        self.vibe = "Aesthetic & Focused"
+
+Atif().build()

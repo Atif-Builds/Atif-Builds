@@ -1,3 +1,4 @@
+![MY DEV PROFILE](https://github.com/user-attachments/assets/5d4ba441-ee09-464a-9036-c883beb712c3)
 # Hi, I'm Atif! 👋 
 
 <p align="center">
@@ -32,6 +33,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Atif-Builds&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Atif's Stats" />
 </p>
+
+#![MY DEV PROFILE](https://github.com/user-attachments/assets/7e508d25-167b-4d39-ac7d-5cbf9d83dc70)
 
 ---
 <p align="center">

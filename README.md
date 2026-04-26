@@ -1,18 +1,11 @@
-# Hi, I'm Atif! 👋
-#![Uploading Atif’s coding space at night.png…]()
-
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=ATIF%20BUILDS&fontSize=90&animation=fadeIn" />
+<img width="1200" height="400" alt="ATIF BUILDS 2" src="https://github.com/user-attachments/assets/a8160c0e-b73e-4a32-b455-0aa84d7ad9ba" />
+
+
 </p>
 
 ## 🏕️ The Journey Begins
 <p align="center">
-  <img src="https://progress-bar.dev/1/?scale=100&title=Day%201&width=600&color=babaf2" alt="Progress Bar" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Atif-Builds/Atif-Builds/main/your-pixel-image.jpg" width="300" />
 </p>
 
 ### 👨‍💻 About Me
@@ -37,13 +30,9 @@ I am a developer in progress, currently sitting by the river at sunset, sharpeni
 </p>
 
 ---
+### 🌲 My Coding Season
 
-### 🐍 Tech Stack
-```python
-class Atif:
-    def __init__(self):
-        self.language = "Python"
-        self.status = "Building the Future"
-        self.vibe = "Aesthetic & Focused"
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Atif-Builds&show_icons=true&theme=dracula&bg_color=2d5a27&title_color=ffffff&text_color=e0e0e0&icon_color=ffdd54&hide_border=true" alt="Atif's Stats" />
+</p>
 
-Atif().build()

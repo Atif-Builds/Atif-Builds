@@ -9,15 +9,17 @@
 </p>
 
 ### 👨‍💻 About Me
-*“A warrior at the campfire, preparing for the great climb.”*
-
 I am a developer in progress, currently sitting by the river at sunset, sharpening my tools. My journey is about more than just code; it's about building a legacy, one pixel at a time.
 
-- 🏹 **Current Quest:** Mastering **CS50** & **Python**
-- 🏔️ **Environment:** Building near the mountains, rivers, and waterfalls.
-- 🦌 **Vibe:** Peace, focus, and growth.
+- 🏹 **Current Focus:** Mastering **CS50** & **Python**
 
 ---
+### 🎒 My Inventory (Projects)
+
+| Project | Description | Status |
+| :--- | :--- | :--- |
+| **Log Engine** | A foundational engine built in Day 1 to handle logarithmic operations. | 🟢 Completed |
+| **Scientific Calculator** | Evolution of the Log Engine, expanding into complex scientific functions. | ⏳ Planned |
 
 ### 🛠️ Languages & Tools I've Handled
 <p align="left">

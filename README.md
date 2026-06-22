@@ -38,3 +38,10 @@ I am a developer in progress, currently sitting by the river at sunset, sharpeni
   <img src="https://github-readme-stats.vercel.app/api?username=Atif-Builds&show_icons=true&theme=dracula&bg_color=2d5a27&title_color=ffffff&text_color=e0e0e0&icon_color=ffdd54&hide_border=true" alt="Atif's Stats" />
 </p>
 
+
+> [!NOTE]
+> ### 📜 The Adventurer's Code
+> This unique profile layout and its custom assets represent my personal developer journey. 
+> You are incredibly welcome to take **inspiration** from the layout or design for your own profile! 
+> However, please do not directly clone, copy-paste, or duplicate this repository as your own. 
+> Let's build our own unique legacies
